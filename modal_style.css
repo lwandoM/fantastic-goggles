@@ -1,0 +1,69 @@
+.modal-header {
+    border-bottom: 0 none;
+}
+
+.modal-footer {
+    border-top: 0 none;
+    
+}
+
+.agree-btn{
+    
+    border-width: thin;
+    border-color: #18c962;
+    background-color: #a3e6bf ;
+    border-radius: 5px;
+    padding: 5px 15px;
+
+}
+.cancel-btn{
+    border: solid;
+    border-width: thin;
+    border-color: #f0634d;
+    background-color:#facdcd;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+
+.modal-header{
+    align-content: center;
+    margin: auto;
+}
+
+.modal-content  {
+    border-radius: 0px !important; 
+    border: solid thin;
+    font: Arial;
+}
+
+.modal-body{
+    align-content: center;
+    margin: auto;
+}
+
+.modal-body p{
+    display: inline;
+    align-content: center;
+    padding-right: 25px;
+}
+
+.modal-body #button{
+    height: 60px;
+    width: 60px;
+    font-size: xx-large;
+    
+}
+
+.modal-body #current-items{
+    height: 60px;
+    width: 60px;
+    font-size: xx-large;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.modal-body #current-items, .modal-body span{
+    font-weight: bold;
+    font-family: arial;
+}
+
+
